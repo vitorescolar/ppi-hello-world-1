@@ -1,1 +1,2 @@
-# ppi-hello-world-1
+# ppi-hello-world
+Projeto da disciplina de PPI
